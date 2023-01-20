@@ -1,4 +1,4 @@
-<h1> 👋 Hey there! I'm ![#004e8](https://placehold.co/15x15/004e8/004e8.pngtext=Jordan%20Wootton) . </h1>
+<h1> 👋 Hey there! I'm [![#004e8](https://placehold.co/15x15/004e8/004e8.pngtext=Jordan%20Wootton) . </h1>
 <a href='https://www.linkedin.com/in/jordanwootton/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 <a href='https://jordanwootton.ca/#/'><img align='left' alt="jordanwootton.ca" src="https://img.shields.io/website?url=https%3A%2F%2Fjordanwootton.ca" height='18px'/></a>
 <a href='https://github.com/JWootts'><img align='left' alt="github" src="https://img.shields.io/github/followers/jwootts?style=social" height='18px'/></a>
