@@ -10,13 +10,13 @@
 <br />Working in the <b><ins>Public Sector</ins></b>&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png" width="20"></p>
 <h4> I'm an IT Developer, with fullstack experience! 🎓➜🏢 </h4>
 ```json
-	const aboutMe = {
-		location: 'canada',
-		workLocation: 'remote',
-		languages: [C#, Java, JavaScript, Python, VB/VBA, PowerShell],
-		frameworks: [React, Angular, Vue, .NET, WPF],
-		ides: [Eclipse, Visual Studio, VS Code, IntelliJ, Atom, PyCharm]
-	}
+const aboutMe = {
+	location: 'canada',
+	workLocation: 'remote',
+	languages: [C#, Java, JavaScript, Python, VB/VBA, PowerShell],
+	frameworks: [React, Angular, Vue, .NET, WPF],
+	ides: [Eclipse, Visual Studio, VS Code, IntelliJ, Atom, PyCharm]
+}
 ```
 </br>
 
