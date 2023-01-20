@@ -8,8 +8,8 @@
 <br />
 <p><em>Computer Programmer Anaylst from <a href="https://www.fanshawec.ca/">Fanshawe College</a>&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Fanshawe_College_Logo_vecotrized.svg/1200px-Fanshawe_College_Logo_vecotrized.svg.png" width="20">
 <br />Working in the <b><ins>Public Sector</ins></b>&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png" width="20"></p>
-<h4> I'm an <font color="#004e82">IT Developer</font>, with fullstack experience! 🎓 </h4>
-
+<h4> I'm an IT Developer, with fullstack experience! 🎓➜🏢 </h4>
+```json
 	const aboutMe = {
 		location: 'canada',
 		workLocation: 'remote',
@@ -17,7 +17,7 @@
 		frameworks: [React, Angular, Vue, .NET, WPF],
 		ides: [Eclipse, Visual Studio, VS Code, IntelliJ, Atom, PyCharm]
 	}
-
+```
 </br>
 
 [![JWootts's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWootts&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
