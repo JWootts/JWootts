@@ -20,5 +20,5 @@
 
 </br>
 
-[![JWootts's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWootts&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JWootts/github-readme-stats)
+[![JWootts's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWootts&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
