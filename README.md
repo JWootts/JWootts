@@ -1,6 +1,4 @@
 # 👋 Hey there! I'm ```Jordan Wootton``` . 
-
-
 <a href='https://www.linkedin.com/in/jordanwootton/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 <a href='https://jordanwootton.ca/#/'><img align='left' alt="jordanwootton.ca" src="https://img.shields.io/website?url=https%3A%2F%2Fjordanwootton.ca" height='18px'/></a>
 <a href='https://github.com/JWootts'><img align='left' alt="github" src="https://img.shields.io/github/followers/jwootts?style=social" height='18px'/></a>
@@ -22,17 +20,11 @@ const aboutMe = {
 	ides: ['Eclipse', 'Visual Studio', 'VS Code', 'IntelliJ', 'Atom', 'PyCharm']
 }
 ```
-
 </br>
-
 <h2><img align='left' alt="fancyCat" src="https://cdn.discordapp.com/emojis/1013540815999602800.gif?size=96&quality=lossless" width='25' height='25px'/>&nbsp;&nbsp;Current Stats: <br /></h2>
-
 <div align='middle'>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JWootts&theme=dark&background=1a1b27)](https://github.com/JWootts)
-
 </br>
-
 [![JWootts's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWootts&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JWootts)
-
 </div>
