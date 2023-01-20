@@ -23,7 +23,7 @@ const aboutMe = {
 
 </br>
 
-<h2><img align='left' alt="fancyCat" src="https://cdn.discordapp.com/emojis/1013540815999602800.gif?size=96&quality=lossless" width='20' height='20px'/>&nbsp;&nbsp;Current Stats: <br /></h2>
+<h2><img align='left' alt="fancyCat" src="https://cdn.discordapp.com/emojis/1013540815999602800.gif?size=96&quality=lossless" width='25' height='25px'/>&nbsp;&nbsp;Current Stats: <br /></h2>
 
 <div align='middle'>
 
