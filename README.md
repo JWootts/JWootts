@@ -14,6 +14,7 @@
 const aboutMe = {
 	location: 'canada',
 	workLocation: 'remote',
+	age: 23,
 	languages: ['C#', 'Java', 'JavaScript', 'Python', 'VB/VBA', 'PowerShell'],
 	frameworks: ['React', 'Angular', 'Vue', '.NET', 'WPF'],
 	ides: ['Eclipse', 'Visual Studio', 'VS Code', 'IntelliJ', 'Atom', 'PyCharm']
@@ -22,5 +23,14 @@ const aboutMe = {
 
 </br>
 
+<h2><img align='left' alt="fancyCat" src="https://cdn.discordapp.com/emojis/1013540815999602800.gif?size=96&quality=lossless" height='30px'/>Current Stats: <br /></h2>
+
+<div align='middle'>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JWootts&theme=dark&background=1a1b27)](https://github.com/JWootts)
+
+</br>
+
 [![JWootts's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWootts&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JWootts)
 
+</div>
