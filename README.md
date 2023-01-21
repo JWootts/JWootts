@@ -15,7 +15,7 @@ const aboutMe = {
 	location: 'canada',
 	workLocation: 'remote',
 	age: 23,
-	languages: ['C#', 'Java', 'JavaScript', 'Python', 'VB/VBA', 'PowerShell'],
+	languages: ['C#', 'Java', 'JavaScript', 'Python', 'VB/VBA', 'PowerShell', 'SQL/DBMS', 'C/C++'],
 	frameworks: ['React', 'Angular', 'Vue', '.NET', 'WPF'],
 	ides: ['Eclipse', 'Visual Studio', 'VS Code', 'IntelliJ', 'Atom', 'PyCharm']
 }
